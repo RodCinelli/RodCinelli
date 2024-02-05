@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **rodcinelli@gmail.com**
 
-<br>
 
 <h3 align="center">Languages and Tools:</h3>
 
