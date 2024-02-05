@@ -15,6 +15,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Cinelli</h1>
 <h3 align="center">A Passionate Software Developer From Brazil</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **rodcinelli@gmail.com**
