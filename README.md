@@ -10,10 +10,10 @@
 
 <br>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rodcinelli&label=Profile%20views&color=0e75b6&style=flat" alt="rodcinelli" /> </p>
+
 <h1 align="center">Hi 👋, I'm Rodrigo Cinelli</h1>
 <h3 align="center">A Passionate Software Developer From Brazil</h3>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rodcinelli&label=Profile%20views&color=0e75b6&style=flat" alt="rodcinelli" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
