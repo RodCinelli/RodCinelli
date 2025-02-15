@@ -4,7 +4,7 @@
 
 🌱 Having decided to further specialize in my career as a developer, I took the Full Stack Python Developer course lasting at least 15 months at the educational institution EBAC. In this course, in addition to consolidating the knowledge acquired at Senac, I developed skills in new stacks such as React.js, Next.js, Tailwind, Python, Django, Docker, PostgreSQL, among many others. I also learned how to use Git in a corporate context.
 
-💞️ I am completely fascinated by the revolution that artificial intelligence is causing in the sector, especially in productivity. I have been following and exploring AI tools to understand and apply their capabilities in the development of innovative solutions. I have studied a lot about and have been developing AI agents for some of my daily and business solutions.
+💞️ I am completely fascinated by the revolution that Artificial Intelligence is causing in the sector, especially in productivity. I have been following and exploring AI tools to understand and apply their capabilities in the development of innovative solutions. I have studied a lot about and have been developing AI agents for some of my daily and business solutions.
 
 📫 How to reach me: Feel free to get in touch with me right here on GitHub or via rodcinelli@gmail.com. I'm always open to discussing new technologies, potential collaborations, and sharing insights in the ever-evolving field of technology.
 
