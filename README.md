@@ -1,4 +1,4 @@
-👋 I’m Rodrigo Cinelli, an aspiring Full Stack Developer, currently advancing my education in Software Development. Residing in Rio de Janeiro, Brazil, I am fluently bilingual in Portuguese and English. My goal is to master the art of full stack development while delving deep into the realms of Data Science and Machine Learning, with a special focus on artificial intelligence.
+👋 I’m Rodrigo Cinelli, a Full Stack Developer, currently advancing my education in Software Engineer. Residing in Rio de Janeiro, Brazil, I am fluently bilingual in Portuguese and English. My goal is to master the art of full stack development while delving deep into the realms of Data Science and Machine Learning, with a special focus on artificial intelligence.
 
 👀 I am passionate about leveraging technology to solve complex problems and create impactful solutions. My journey in tech is driven by a desire to blend creative full-stack development with the analytical power of data science and machine learning.
 
